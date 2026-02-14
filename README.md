@@ -23,10 +23,6 @@ I'm a 22-year-old Computer Engineering student from Paraguay 🇵🇾, currently
 
 ---
 
-## 💬 Favorite Quotes
-
-> 🖤 *"My magic is never giving up!"* – Asta  
-> 🔥 *"Surpass your limits. Right here, right now."* – Yami Sukehiro
 
 ---
 
@@ -55,7 +51,4 @@ Soy un estudiante de Ingeniería Informática de 22 años, actualmente desarroll
 
 ---
 
-## 💬 Frases favoritas
 
-> 🖤 *"¡Mi magia es no rendirme!"* – Asta  
-> 🔥 *"Supera tus límites. Aquí y ahora."* – Yami Sukehiro
