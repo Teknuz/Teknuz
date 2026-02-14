@@ -24,8 +24,6 @@ I'm a 22-year-old Computer Engineering student from Paraguay 🇵🇾, currently
 ---
 
 
----
-
 ## ¡Hola! 👋
 
 Soy un estudiante de Ingeniería Informática de 22 años, actualmente desarrollando mi tesis. Vivo en Paraguay 🇵🇾 y me apasiona el desarrollo de software. Siempre estoy buscando nuevos desafíos y oportunidades para mejorar como desarrollador.
