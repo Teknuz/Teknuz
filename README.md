@@ -4,7 +4,7 @@ I'm a 22-year-old Computer Engineering student from Paraguay 🇵🇾, currently
 
 ### 🚀 Technologies & Tools I use:
 - 💻 **Languages:** Java, PHP  
-- 🌐 **Frameworks:** Spring Boot, Genexus, Scriptcase  
+- 🌐 **Frameworks:** Spring Boot
 - 🗄️ **Databases:** MySQL  
 - 📡 **Infrastructure:** VPS management
 
@@ -30,7 +30,7 @@ Soy un estudiante de Ingeniería Informática de 22 años, actualmente desarroll
 
 ### 🚀 Tecnologías y herramientas que utilizo:
 - 💻 **Lenguajes:** Java, PHP  
-- 🌐 **Frameworks:** Spring Boot, Genexus, Scriptcase  
+- 🌐 **Frameworks:** Spring Boot 
 - 🗄️ **Bases de datos:** MySQL  
 - 📡 **Infraestructura:** Gestión de servidores VPS
 
